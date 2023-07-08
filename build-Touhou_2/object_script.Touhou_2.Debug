@@ -1,0 +1,17 @@
+debug/qrc_res.o
+debug/main.o
+debug/mainwindow.o
+debug/menubutton.o
+debug/gamescene.o
+debug/gamebackground.o
+debug/flyers.o
+debug/player.o
+debug/playerbullet.o
+debug/enemy.o
+debug/gameoverscene.o
+debug/enemybullet.o
+debug/dropings.o
+debug/moc_mainwindow.o
+debug/moc_menubutton.o
+debug/moc_gamescene.o
+debug/moc_gameoverscene.o

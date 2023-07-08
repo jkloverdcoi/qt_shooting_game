@@ -1,0 +1,17 @@
+release/qrc_res.o
+release/main.o
+release/mainwindow.o
+release/menubutton.o
+release/gamescene.o
+release/gamebackground.o
+release/flyers.o
+release/player.o
+release/playerbullet.o
+release/enemy.o
+release/gameoverscene.o
+release/enemybullet.o
+release/dropings.o
+release/moc_mainwindow.o
+release/moc_menubutton.o
+release/moc_gamescene.o
+release/moc_gameoverscene.o
